@@ -4,7 +4,7 @@ fn main() {
 }
 
 pub fn run() {
-    let a1: [u8; 9000000] = [1; 9000000];
+    let a1: [u8; 7000000] = [1; 7000000];
 }
 
 // [root@localhost sample_work_001]# cargo run
